@@ -52,6 +52,11 @@ a:hover {
     color: white;
 }
 
+.credit {
+    font-size: 1rem; 
+    color: #ff847c;
+}
+
 .upper-part {
     background-color: #feceab;
     position: relative;
